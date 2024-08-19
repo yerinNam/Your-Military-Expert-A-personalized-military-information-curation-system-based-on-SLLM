@@ -1,0 +1,34 @@
+
+[34m[1mwandb[39m[22m: [33mWARNING[39m Calling wandb.run.save without any arguments is deprecated.Changes to attributes are automatically persisted.
+
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.50it/s]
+Count of using GPUs: 1
+
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.48it/s]
+Count of using GPUs: 1
+
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.43it/s]
+Count of using GPUs: 1
+[nltk_data] Downloading package punkt to /root/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+Map: 100%|██████████| 536/536 [00:00<00:00, 3999.02 examples/s]
+Map: 100%|██████████| 135/135 [00:00<00:00, 3711.34 examples/s]
+trainable params: 2,621,440 || all params: 8,032,882,688 || trainable%: 0.0326
+Map: 100%|██████████| 536/536 [00:00<00:00, 1658.89 examples/s]
+Map: 100%|██████████| 135/135 [00:00<00:00, 1637.18 examples/s]
+Filter: 100%|██████████| 268/268 [00:00<00:00, 790.20 examples/s]
+Filter: 100%|██████████| 67/67 [00:00<00:00, 753.44 examples/s]
+/root/lab_lm/lib/python3.8/site-packages/transformers/training_args.py:1525: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Detected kernel version 5.4.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+[34m[1mwandb[39m[22m: [33mWARNING[39m The `run_name` is currently set to the same value as `TrainingArguments.output_dir`. If this was not intended, please specify a different run name by setting the `TrainingArguments.run_name` parameter.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token.As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+암중의 조종수계기판에 있는 화생방경보기등의 상태를 점검한다.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.

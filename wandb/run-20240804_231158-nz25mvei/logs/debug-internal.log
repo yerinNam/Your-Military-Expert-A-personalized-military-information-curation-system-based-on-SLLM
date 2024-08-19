@@ -1,0 +1,11 @@
+2024-08-04 23:11:58,524 INFO    StreamThr :28279 [internal.py:wandb_internal():85] W&B internal server running at pid: 28279, started at: 2024-08-04 23:11:58.524292
+2024-08-04 23:11:58,526 DEBUG   HandlerThread:28279 [handler.py:handle_request():158] handle_request: status
+2024-08-04 23:11:58,527 INFO    WriterThread:28279 [datastore.py:open_for_write():87] open: /root/lab_lm/function/wandb/run-20240804_231158-nz25mvei/run-nz25mvei.wandb
+2024-08-04 23:11:58,528 DEBUG   SenderThread:28279 [sender.py:send():379] send: header
+2024-08-04 23:11:58,528 DEBUG   SenderThread:28279 [sender.py:send():379] send: run
+2024-08-04 23:12:03,528 DEBUG   HandlerThread:28279 [handler.py:handle_request():158] handle_request: keepalive
+2024-08-04 23:12:04,054 INFO    SenderThread:28279 [dir_watcher.py:__init__():211] watching files in: /root/lab_lm/function/wandb/run-20240804_231158-nz25mvei/files
+2024-08-04 23:12:04,054 INFO    SenderThread:28279 [sender.py:_start_run_threads():1188] run started: nz25mvei with start time 1722780718.52424
+2024-08-04 23:12:04,054 DEBUG   HandlerThread:28279 [handler.py:handle_request():158] handle_request: status_report
+2024-08-04 23:12:04,059 DEBUG   HandlerThread:28279 [handler.py:handle_request():158] handle_request: check_version
+2024-08-04 23:12:04,059 DEBUG   SenderThread:28279 [sender.py:send_request():406] send_request: check_version
