@@ -64,6 +64,7 @@ response_text = tokenizer.decode(response_ids, skip_special_tokens=True)
 print(response_text)
 ```
 <br/>
+
 ## 생성 예제 Rag O <br/>
 generate_answer_with_rag 함수는 Continual Training.ipnyb에 있습니다. <br/>
 
