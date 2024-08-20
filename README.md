@@ -6,7 +6,7 @@
 > 데이터 처리 및 분석: Pandas, NumPy​ 
 
 ## 학습 절차
-<img src="https://github.com/yerinNam/Your-Military-Expert-A-personalized-military-information-curation-system-based-on-SLLM/blob/main/Eaxmple/%ED%95%99%EC%8A%B5%20%EC%A0%88%EC%B0%A8.png?raw=true" width="100" height="800"/>
+<img src="https://github.com/yerinNam/Your-Military-Expert-A-personalized-military-information-curation-system-based-on-SLLM/blob/main/Eaxmple/%ED%95%99%EC%8A%B5%20%EC%A0%88%EC%B0%A8.png?raw=true" width="200" height="400"/>
 
 
 ## 서비스 개요도
