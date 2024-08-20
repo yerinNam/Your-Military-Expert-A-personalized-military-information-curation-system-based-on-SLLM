@@ -1,7 +1,10 @@
 # Your-Military-Expert-A-personalized-military-information-curation-system-based-on-SLLM
 > 국방 인공지능 해커톤 제 2회 우수상: Small LLM을 통한 On-Device성 도메인 특화된 Private ChatBot  Service 구축 <br/>
 > 하드웨어​: GPU (NVIDIA DGX A100(80GB) × 2    *슈퍼컴퓨터 데이터센터 지원​)  <br/>
-> 소프트웨어​: 운영체제-Ubuntu 24.04​, 프로그래밍 언어 및 프레임 워크-Python, PyTorch, Transformers​, LoRA 데이터 처리 및 분석-Pandas, NumPy​  <br/>
+> 소프트웨어​: <br/>
+> 운영체제-Ubuntu 24.04​ <br/>
+> 프로그래밍 언어 및 프레임 워크-Python, PyTorch, Transformers​, LoRA <br/>
+> 데이터 처리 및 분석-Pandas, NumPy​ 
 
 ## 학습 개요도
 <img src="https://github.com/yerinNam/Designing-Effective-Summary-Models-for-Defense-Articles/blob/main/img/%EC%A0%84%EC%B2%B4%20%EA%B0%9C%EC%9A%94%EB%8F%84.png?raw=true" width="400" height="100"/>
