@@ -24,8 +24,8 @@ dataset = Dataset.from_dict(data_dict)
 ``` 
 <br/> 
 
-## 서비스 개요도
-<img src="https://github.com/yerinNam/Designing-Effective-Summary-Models-for-Defense-Articles/blob/main/img/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%A0%84%EC%B2%B4%20%EA%B0%9C%EC%9A%94%EB%8F%84.png?raw=true" width="400" height="150"/>
+## 서비스 개요도 <br/> 
+![챗봇 프로세스](https://github.com/user-attachments/assets/6dadd0bd-064a-4b02-8768-296d0d3735ee) <br/> 
 
 
 ## 요약 문장 비교
