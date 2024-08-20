@@ -8,7 +8,7 @@
 ## 학습 절차
 <img src="https://github.com/yerinNam/Your-Military-Expert-A-personalized-military-information-curation-system-based-on-SLLM/blob/main/Eaxmple/%ED%95%99%EC%8A%B5%20%EC%A0%88%EC%B0%A8.png?raw=true" width="300" height="200"/>
 <br/> Corpus Dataset을 Continual Pretraining.ipnyb에서 아래 부분 코드에 데이터셋 경로를 넣으시면 학습시킬 수 있습니다.
-```sh
+```
 import nltk
 nltk.download('punkt')
 from nltk.tokenize import sent_tokenize
@@ -24,7 +24,7 @@ def remove_extra_spaces(text):
 
 data_dict = {'text': [remove_extra_spaces(sentence.strip()) for sentence in sentences if sentence.strip()]}
 dataset = Dataset.from_dict(data_dict)
-```<br/> 
+
 
 ## 서비스 개요도
 <img src="https://github.com/yerinNam/Designing-Effective-Summary-Models-for-Defense-Articles/blob/main/img/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%A0%84%EC%B2%B4%20%EA%B0%9C%EC%9A%94%EB%8F%84.png?raw=true" width="400" height="150"/>
