@@ -25,7 +25,7 @@ dataset = Dataset.from_dict(data_dict)
 <br/> 
 
 ## 서비스 개요도 <br/> 
-![챗봇 프로세스](https://github.com/user-attachments/assets/6dadd0bd-064a-4b02-8768-296d0d3735ee) <br/> 
+![image](https://github.com/user-attachments/assets/5e5bc7de-b16c-40d6-a6d0-82c9fb120186) <br/> 
 
 
 ## 요약 문장 비교
