@@ -7,8 +7,23 @@
 
 ## 학습 절차
 <img src="https://github.com/yerinNam/Your-Military-Expert-A-personalized-military-information-curation-system-based-on-SLLM/blob/main/Eaxmple/%ED%95%99%EC%8A%B5%20%EC%A0%88%EC%B0%A8.png?raw=true" width="300" height="200"/>
-<br/> Corpus Dataset을 Continual Pretraining.ipnyb에서 데이터셋에 넣으시면 학습시킬 수 있습니다.
+<br/> Corpus Dataset을 Continual Pretraining.ipnyb에서 아래 부분 코드에 데이터셋 경로를 넣으시면 학습시킬 수 있습니다.
 ```sh
+import nltk
+nltk.download('punkt')
+from nltk.tokenize import sent_tokenize
+
+file_path = 'YOUR_DATASET_PATH'
+with open(file_path, 'r', encoding='utf-8') as f:
+    text = f.read()
+
+sentences = sent_tokenize(text)
+
+def remove_extra_spaces(text):
+    return ' '.join(text.split())
+
+data_dict = {'text': [remove_extra_spaces(sentence.strip()) for sentence in sentences if sentence.strip()]}
+dataset = Dataset.from_dict(data_dict)
 ```
 
 ## 서비스 개요도
