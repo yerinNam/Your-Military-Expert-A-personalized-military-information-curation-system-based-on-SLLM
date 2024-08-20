@@ -6,7 +6,7 @@
 > 데이터 처리 및 분석: Pandas, NumPy​ 
 
 ## 학습 절차
-<img src="https://github.com/yerinNam/Your-Military-Expert-A-personalized-military-information-curation-system-based-on-SLLM/blob/main/Eaxmple/%ED%95%99%EC%8A%B5%20%EC%A0%88%EC%B0%A8.png?raw=true" width="300" height="200"/>
+![학습 절차](https://github.com/user-attachments/assets/cea61b3d-9843-4039-88ff-0cdee73f9e0b)
 Corpus Dataset을 Continual Pretraining.ipnyb에서 아래 부분 코드에 데이터셋 경로를 넣으시면 간단한 전처리 후 학습시킬 수 있습니다. <br/>  <br/>
 
 ```python
