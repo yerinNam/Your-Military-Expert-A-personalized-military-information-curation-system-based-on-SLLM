@@ -7,7 +7,7 @@
 
 ## 학습 절차
 <img src="https://github.com/yerinNam/Your-Military-Expert-A-personalized-military-information-curation-system-based-on-SLLM/blob/main/Eaxmple/%ED%95%99%EC%8A%B5%20%EC%A0%88%EC%B0%A8.png?raw=true" width="300" height="200"/>
-Corpus Dataset을 Continual Pretraining.ipnyb에서 아래 부분 코드에 데이터셋 경로를 넣으시면 학습시킬 수 있습니다. <br/>  <br/>
+Corpus Dataset을 Continual Pretraining.ipnyb에서 아래 부분 코드에 데이터셋 경로를 넣으시면 간단한 전처리 후 학습시킬 수 있습니다. <br/>  <br/>
 
 ```python
 file_path = 'YOUR_DATASET_PATH'
