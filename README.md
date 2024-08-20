@@ -1,5 +1,5 @@
 # Your-Military-Expert-A-personalized-military-information-curation-system-based-on-SLLM
-> 국방 인공지능 해커톤 제 2회 우수상: Small LLM을 통한 On-Device성 도메인 특화된 Private ChatBot  Service 구축 <br/>
+> 국방 인공지능 해커톤 제 2회 우수상: Small LLM을 통한 On-Device성 도메인 특화된 Private ChatBot  Service 구축<br/><br/>
 > GPU: NVIDIA DGX A100(80GB) × 2    *슈퍼컴퓨터 데이터센터 지원  <br/>
 > 운영체제: Ubuntu 24.04​ <br/>
 > 프로그래밍 언어 및 프레임 워크: Python, PyTorch, Transformers​, LoRA <br/>
