@@ -5,8 +5,8 @@
 > 프로그래밍 언어 및 프레임 워크: Python, PyTorch, Transformers​, LoRA <br/>
 > 데이터 처리 및 분석: Pandas, NumPy​ 
 
-## 학습 개요도
-<img src="https://github.com/yerinNam/Designing-Effective-Summary-Models-for-Defense-Articles/blob/main/img/%EC%A0%84%EC%B2%B4%20%EA%B0%9C%EC%9A%94%EB%8F%84.png?raw=true" width="400" height="100"/>
+## 학습 절차
+<img src="![image](https://github.com/user-attachments/assets/983f1e7e-e470-4b47-a648-9e4c12272beb)" width="400" height="100"/>
 
 
 ## 서비스 개요도
