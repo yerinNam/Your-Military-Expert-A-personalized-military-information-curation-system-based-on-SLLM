@@ -81,8 +81,8 @@ print(answer)
 ## 챗봇 Process <br/> 
 ![image](https://github.com/user-attachments/assets/e3550c75-9b7e-4fef-bc76-5fed69978c76) <br/> 
 
-## 챗봇 데모 영상 - Staria & Unibus <br/>
-![정비 매뉴얼 적용 데모](https://github.com/user-attachments/assets/100c386d-70bd-4c08-8fcc-1eba00c6e268)  <br/> 
+## 챗봇 데모 영상 - Staria & Unibus (4배속 영상) <br/>
+![현대차 웹 데모영상 최종 (online-video-cutter com)](https://github.com/user-attachments/assets/bbba55c0-38d0-4bef-8f77-08f03b24d2d3)  <br/> 
 
-## 챗봇 데모 영상 - K1 구난전차 기술교범 <br/>
+## 챗봇 데모 영상 - K1 구난전차 기술교범 (원본 영상) <br/>
 ![정비 매뉴얼 적용 데모](https://github.com/user-attachments/assets/100c386d-70bd-4c08-8fcc-1eba00c6e268)  <br/> 
